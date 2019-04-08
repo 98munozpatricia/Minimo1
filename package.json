@@ -1,0 +1,19 @@
+{
+  "name": "minimo_1_ea_patriciamunoz",
+  "version": "1.0.0",
+  "description": "Minimo1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98munozpatricia/Minimo1.git"
+  },
+  "author": "Patricia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/98munozpatricia/Minimo1/issues"
+  },
+  "homepage": "https://github.com/98munozpatricia/Minimo1#readme"
+}
